@@ -3,7 +3,7 @@
 Plugin Name: Remove Author Pages
 Description: Trigger 404 error on author pages and change author links to home
 Author: Vinicius Pinto <contact@codense.com>
-Version: 0.1
+Version: 0.2
 Compatibility: WordPress 3.9
 */
 
