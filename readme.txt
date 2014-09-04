@@ -2,7 +2,7 @@
 Contributors: viniweb
 Tags: author, pages, remove, delete, disable
 Requires at least: 2.0.0
-Tested up to: 3.9
+Tested up to: 4.0
 Stable tag: 0.2
 License: MIT
 License URI: http://opensource.org/licenses/MIT
